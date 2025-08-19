@@ -1,0 +1,7 @@
+<!-- public/images/gallery_image_3.svg -->
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="200" fill="#A7BEE8"/>
+<circle cx="100" cy="100" r="50" fill="#0000FF"/>
+<circle cx="200" cy="100" r="50" fill="#800080"/>
+<path d="M150 100L150 100" stroke="#4B0082" stroke-width="10" stroke-linecap="round"/>
+</svg>
