@@ -1,0 +1,7 @@
+<!-- public/images/gallery_image_2.svg -->
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="200" fill="#C3DAFE"/>
+<path d="M150 20L100 180H200L150 20Z" fill="#800080"/>
+<circle cx="150" cy="100" r="20" fill="#FFFFFF"/>
+<path d="M150 50L130 70L170 70L150 50Z" fill="#FFFFFF"/>
+</svg>
